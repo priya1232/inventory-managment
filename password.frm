@@ -117,7 +117,7 @@ MDIForm1.Show
 MDIForm1.WindowState = 2
 
 Else
-MsgBox "Your password is Wrong"
+MsgBox "password incorrect"
 End If
 
 'Unload Me
