@@ -141,15 +141,15 @@ Begin VB.Form form10
       Width           =   1215
    End
    Begin VB.TextBox txtDATE 
-      Height          =   375
+      Height          =   400
       Left            =   4080
       TabIndex        =   1
       Text            =   " "
-      Top             =   1200
+      Top             =   1300
       Width           =   1455
    End
    Begin VB.TextBox txtSUPP 
-      Height          =   375
+      Height          =   400
       Left            =   4080
       TabIndex        =   3
       Text            =   " "
@@ -157,7 +157,7 @@ Begin VB.Form form10
       Width           =   2415
    End
    Begin VB.TextBox txtRECD 
-      Height          =   375
+      Height          =   400
       Left            =   4080
       TabIndex        =   4
       Text            =   " "
@@ -175,7 +175,7 @@ Begin VB.Form form10
          Italic          =   0   'False
          Strikethrough   =   0   'False
       EndProperty
-      Height          =   375
+      Height          =   400
       Left            =   5040
       TabIndex        =   10
       Top             =   4800
@@ -192,7 +192,7 @@ Begin VB.Form form10
          Italic          =   0   'False
          Strikethrough   =   0   'False
       EndProperty
-      Height          =   375
+      Height          =   400
       Left            =   6120
       TabIndex        =   11
       Top             =   4800
@@ -209,7 +209,7 @@ Begin VB.Form form10
          Italic          =   0   'False
          Strikethrough   =   0   'False
       EndProperty
-      Height          =   375
+      Height          =   400
       Left            =   6120
       TabIndex        =   14
       Top             =   5400
